@@ -1,0 +1,19 @@
+.story{
+    display: flex;
+    align-items: center;
+    width: 65%;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.story > h4{
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.story > .avatar > .story_avatar{
+    border: 3px solid rgb(181, 91, 255);
+    height: 60px;
+    width: 60px;
+}
